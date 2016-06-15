@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["index.ts"],"names":[],"mappings":";AAAA,gDAA+C,mCAAmC,CAAC;AAA1E,0GAA0E","sourcesContent":["export { SchedulewallthicknessComponent } from './schedulewallthickness.component';\n"]}

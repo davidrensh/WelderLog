@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["index.ts"],"names":[],"mappings":";AAAA,iDAAgD,oCAAoC,CAAC;AAA5E,6GAA4E","sourcesContent":["export { InterchangeableprocessComponent } from './interchangeableprocess.component';\n"]}
